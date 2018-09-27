@@ -3,7 +3,7 @@
   Complete project details at http://randomnerdtutorials.com  
 *********/
 
-// TCS230 or TCS3200 pins wiring to Arduino
+//TCS230 or TCS3200 pins wiring to Arduino
 #define S0 4
 #define S1 5
 #define S2 6
